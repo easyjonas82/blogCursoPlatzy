@@ -12,6 +12,12 @@
 }
 
 .cabecera{
+    display: flex;
+    justify-content: center;
     text-align: center;
     font-size: 20px;
+    background-color: red;
+    width: 1800px;
+    
+    
 }
